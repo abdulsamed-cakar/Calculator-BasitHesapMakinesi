@@ -1,4 +1,4 @@
-<h1>🧮 Calculator-BasitHesapMakinesi</h1>
+<h1>🔢 Calculator-BasitHesapMakinesi</h1>
  
 ![Ekran görüntüsü 2024-11-18 164028](https://github.com/user-attachments/assets/2c8f3524-d067-4973-924e-e90ec445dcd0)
 
